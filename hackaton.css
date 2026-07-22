@@ -21,7 +21,7 @@ header {
     color: white;
 }
 
-header h1 {
+h1 {
     margin: 0;
     font-size: 40px;
     font-weight: 700;
@@ -65,8 +65,7 @@ section h3 {
     font-size: 25px;
 }
 
-button,
-.btn {
+button {
     background: #AA22A0;
     color: white;
     border: none;
@@ -79,23 +78,10 @@ button,
     transition: background 0.25s ease, transform 0.2s ease;
 }
 
-button:hover,
-.btn:hover {
+button:hover {
     background: #8e3e8e;
     transform: translateY(-2px);
 }
-
-
-.image {
-    display: none;
-    width: 300px;
-    margin-top: 20px;
-}
-
-#show-img:checked + .image {
-    display: block;
-}
-
 
 
 footer {
