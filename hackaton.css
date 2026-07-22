@@ -108,8 +108,7 @@ footer {
         font-size: 1.05rem;
     }
 
-    button,
-    .btn {
+    button {
         width: 100%;
         text-align: center;
     }
