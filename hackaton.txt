@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les hormones féminines</title>
+    <link rel="stylesheet" href="hackaton.css">
+</head>
+
+<body>
+    <header>
+        <h1>Les variations hormonales et leur impact sur les femmes</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Comprendre le cycle hormonal féminin</h2>
+            <p>
+                Tout au long de sa vie, une femme voit ses hormones varier en fonction de la période du mois.
+                Ce cycle hormonal, plus communément appelé <strong>cycle menstruel</strong>, suit en théorie des phases
+                régulières et bien définies. Cependant, chez de nombreuses femmes, ce cycle peut être instable.
+            </p>
+        </section>
+
+        <section>
+            <h2>Les déséquilibres hormonaux</h2>
+            <p>
+                Environ <strong>80 % des femmes</strong> souffrent d’un déséquilibre hormonal à un moment de leur vie.
+                Ces variations peuvent influencer l’état physique et mental, entraînant fatigue, irritabilité,
+                douleurs, troubles du sommeil ou fluctuations de l’humeur.
+            </p>
+            <p>
+                Les causes de ces dérèglements sont souvent liées à des événements naturels et parfois
+                inévitables : endométriose, grossesse, ménopause, variations du cycle menstruel ou prise de contraception.
+                Ces facteurs rendent la prévention des déséquilibres hormonaux complexe.
+            </p>
+        </section>
+
+        <section>
+            <h2>Impact sur le bien-être</h2>
+            <p>
+                Les fluctuations hormonales influencent de nombreux aspects du quotidien : énergie, émotions,
+                concentration, appétit, sommeil et même la perception de la douleur. Comprendre ces variations
+                permet aux femmes de mieux anticiper leurs besoins et d’adapter leur hygiène de vie.
+            </p>
+        </section>
+
+        <section>
+            <h2>Comment aider les femmes</h2>
+            <p>
+                Pour aider les femmes, le meilleur moyen est de soutenir la recherche sur les domaines concernant les fluctuations hormonales. 
+                Le problème est que les études sur ces sujets sont très limitées, peu mises en avant et les participations restent rares.
+            </p>
+
+            <h3>Comment puis-je aider ?</h3>
+            <p>Vous pouvez aider en participant financièrement à la recherche sur la santé féminine avec Fondation Inserme :</p>
+            <a href="https://don.fondation-inserm.org/" target="_blank">
+                <button>Faire un don</button>
+            </a>
+            <p>
+                Et même sans donner, vous pouvez encourager la recherche en montrant que ce sujet est important 
+                en signant notre pétition :
+            </p>
+
+            <a href="https://c.org/fvzpkwjKbQ" target="_blank">
+                <button>Signer la pétition</button>
+            </a>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Informations générales sur les hormones féminines</p>
+    </footer>
+</body>
+</html>
