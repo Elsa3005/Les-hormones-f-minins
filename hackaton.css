@@ -7,10 +7,8 @@ body {
 
 p {
     font-size: 18px;
-    margin: 18px;
+    margin: 18px 0; 
 }
-
-
 
 header {
     background: linear-gradient(135deg, #AA22A0, #DFA6DF);
@@ -26,15 +24,11 @@ h1 {
     letter-spacing: 1px;
 }
 
-
-
 main {
     max-width: 900px;
     margin: 40px auto;
     padding: 0 20px;
 }
-
-
 
 section {
     background: white;
@@ -56,31 +50,33 @@ section h2 {
     font-weight: 600;
     font-size: 30px;
 }
+
 section h3 {
     color: #AA22A0;
-    margin-top: 0;
+    /* Modification : ajout d'une marge supérieure pour l'espacement visuel */
+    margin-top: 25px; 
     font-weight: 600;
     font-size: 25px;
 }
 
-button {
+.btn {
     background: #AA22A0;
     color: white;
-    border: none;
+    text-decoration: none;
     padding: 14px 22px;
     font-size: 1.1rem;
     border-radius: 10px;
     cursor: pointer;
     display: inline-block;
     margin-top: 10px;
+    box-sizing: border-box;
     transition: background 0.25s ease, transform 0.2s ease;
 }
 
-button:hover {
+.btn:hover {
     background: #8e3e8e;
     transform: translateY(-2px);
 }
-
 
 footer {
     text-align: center;
@@ -88,10 +84,8 @@ footer {
     background: #e6d7eb;
     color: #5a3e5a;
     margin-top: 40px;
-    font-size: 10px;
+    font-size: 14px; /* Augmenté de 10px à 14px pour une meilleure lisibilité */
 }
-
-
 
 @media (max-width: 600px) {
     header h1 {
@@ -106,7 +100,7 @@ footer {
         font-size: 1.05rem;
     }
 
-    button {
+    .btn {
         width: 100%;
         text-align: center;
     }
