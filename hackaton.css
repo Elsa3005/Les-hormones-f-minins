@@ -10,12 +10,6 @@ p {
     margin: 18px 0; 
 }
 
-header {
-    background: linear-gradient(135deg, #AA22A0, #DFA6DF);
-    padding: 50px 20px;
-    text-align: center;
-    color: white;
-
     header {
     background: linear-gradient(135deg, #AA22A0, #DFA6DF);
     padding: 50px 20px;
