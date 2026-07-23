@@ -92,7 +92,11 @@ footer {
     background: #e6d7eb;
     color: #5a3e5a;
     margin-top: 40px;
-    font-size: 14px; 
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
 }
 
 @media (max-width: 600px) {
