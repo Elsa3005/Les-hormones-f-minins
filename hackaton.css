@@ -81,7 +81,7 @@ section h2 {
 }
 
 .social-icon {
-    width: 50px;
+    width: 40px;
     height: auto;
     display: block;
 }
@@ -96,7 +96,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 500px;
 }
 
 @media (max-width: 600px) {
